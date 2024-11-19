@@ -51,7 +51,7 @@ gem "omniauth-github"
 
 # Backgroud jobs
 gem "sidekiq"
-gem "sinatra"
+gem "sinatra", ">= 4.1.0"
 
 # Caching
 gem "dalli"
